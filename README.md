@@ -1,4 +1,4 @@
-# EJEMPLO DE PROTAFOLIO PERSONAL
+# EJEMPLO DE PORTAFOLIO PERSONAL
 - Este portafolio esta creado con las siguientes Herramientas
 
 ## Herramientas utilizadas:
